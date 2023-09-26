@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    - 🏆 I've been participating in various Olympiads for a long time.
    - 🌍 I am speaking in: 🇷🇺 Russian (Native), 🇬🇧 English (Advanced)
 
-📫 How to reach me: 📫 How to reach me: [Telegram](https://t.me/supanon)
+📫 How to reach me: [Telegram](https://t.me/supanon)
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sobersincetoday&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sobersincetoday&layout=compact&theme=transparent&hide_border=true&langs_count=10)
