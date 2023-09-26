@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🇷🇺My name is Timofey
+👇Here u can find some brief info about me👇
+  
