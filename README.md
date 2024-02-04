@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">👇 Here u can find some brief info about me 👇</h3>
 
-   - 🐍 My main programming language is Python. I've also studied C++ as an instrument for olympic tasks, C#, HTML/CSS, JS, SQL, etc.
+   - 🐍 My main programming language is Python. I've also studied C++ as an instrument for olympic tasks, C#, HTML/CSS, Kotlin, SQL, etc.
    - 👨‍💻 I have commercial experience as a full-stack and ML dev since 2023.
    - 🤖 I am currently interested in machine learning in my spare time
    - 🏆 I've been participating in various Olympiads for a long time.
