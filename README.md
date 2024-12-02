@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">👇 Here u can find some brief info about me 👇</h3>
 
    - 🐍 My main programming language is Python. I've also studied C++ as an instrument for olympic tasks, C#, HTML/CSS, Kotlin, SQL, etc.
-   - 👨‍💻 I have commercial experience as a full-stack and ML dev since 2023.
-   - 🤖 I am currently interested in machine learning in my spare time
+   - 👨‍💻 I have commercial experience as a DS and ML dev since 2023.
+   - 🤖 In my spare time, I am researching machine learning sphere.
    - 🏆 I've been participating in various Olympiads for a long time.
    - 🌍 I am speaking in: 🇷🇺 Russian (Native), 🇬🇧 English (Advanced)
 
