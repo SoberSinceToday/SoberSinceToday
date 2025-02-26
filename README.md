@@ -46,6 +46,10 @@ Here are some ideas to get you started:
     <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="catbost" width="40" height="40"/>
   </a>
   
+   <a href="https://spark.apache.org" target="_blank"> 
+    <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/>
+  </a>
+  
   <a href="https://pandas.pydata.org" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" alt="pandas" width="40" height="40"/>
   </a>
